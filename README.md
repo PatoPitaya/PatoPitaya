@@ -1,109 +1,60 @@
 <div align="center">
 
-# 👋 Hola, soy Patricio
+# Hola, soy Patricio 👋
+### Geociencias · Desarrollo Frontend & Python · Fotografía
 
-### `PatoPitaya`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Patricio-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@thepale__blue__dot-E4405F?style=flat-square&logo=instagram)](https://instagram.com/thepale_blue_dot)
+[![Location](https://img.shields.io/badge/Ubicación-Amberes%2C%20Bélgica-blue?style=flat-square&logo=google-maps)](https://maps.google.com)
 
-**Geología • Minería • Fotografía • Código**
+*"Construyendo la intersección entre datos del terreno, código limpio y estética visual."*
 
-Construyo cosas, exploro lugares y convierto ideas en proyectos.
-
-[![GitHub](https://img.shields.io/badge/GitHub-PatoPitaya-181717?style=flat-square&logo=github)](https://github.com/PatoPitaya)
-[![Instagram](https://img.shields.io/badge/Instagram-thepale__blue__dot-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/thepale_blue_dot)
+---
 
 </div>
 
----
+### 🧭 Sobre mí
 
-## 🧭 Sobre mí
-
-Soy **técnico en Geología y Minería Sostenible**, con experiencia en:
-
-- 🗺️ Topografía y levantamientos de terreno
-- 📍 GPS y posicionamiento
-- ⛏️ Geología y minería
-- 🔬 Control de calidad y muestreo
-- 📸 Fotografía de paisajes y naturaleza
-- 💻 Desarrollo web y programación
-
-Mi perfil combina dos mundos que me gustan especialmente:
-
-**el trabajo de campo y la creación digital.**
-
-Actualmente estoy desarrollando proyectos relacionados con programación,
-fotografía y herramientas para transformar ideas en productos digitales.
+- 🌍 **Geología y Topografía:** Técnico en Geología y Minería Sostenible (homologado por NARIC-Vlaanderen). Experiencia en **SRK Consulting** (Chile), asistencia topográfica con GPS en pistas de aeropuertos y control de calidad/muestreo en Bélgica (**Martal Houtimport**, **Imerys**).
+- 💻 **Desarrollo Web & Software:** Enfocado en construir interfaces modernas y herramientas de análisis con JavaScript, React y Python.
+- 📷 **Mirada Creativa:** Fotógrafo detrás de [@thepale_blue_dot](https://instagram.com/thepale_blue_dot). Traslado la atención al detalle geológico —texturas, capas y luz— directamente a la composición visual y al diseño de interfaces.
+- 🗣️ **Idiomas:** Español (Nativo) · Neerlandés (B2–C1) · Inglés.
 
 ---
 
-## 💻 Tech Stack
+### 🛠️ Stack & Herramientas
 
-### Desarrollo
+**Desarrollo Frontend & Código**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Herramientas
-
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Geología / Topografía
-
-![GPS](https://img.shields.io/badge/GPS%20%2F%20Topografía-2E7D32?style=for-the-badge)
-![Geología](https://img.shields.io/badge/Geología-795548?style=for-the-badge)
-![Minería](https://img.shields.io/badge/Minería-455A64?style=for-the-badge)
+**Técnico, Terreno & Calidad**  
+![Topografía GPS](https://img.shields.io/badge/Equipos-GPS%20%26%20Topografía-2ea44f?style=flat-square)
+![Control Calidad](https://img.shields.io/badge/Procesos-Control%20de%20Calidad%20%26%20Muestreo-gray?style=flat-square)
 
 ---
 
-## 🚀 Proyectos destacados
+### 🚀 Proyecto Destacado
 
-### 📸 The Pale Blue Dot
-
-Mi proyecto de fotografía y exploración visual.
-
-**Fotografía • Naturaleza • Paisajes**
-
----
-
-### 🌐 Proyectos Web
-
-Experimentos y proyectos desarrollados con:
-
-**JavaScript • React • Vite**
+<table>
+  <tr>
+    <td width="60%">
+      <h4>📸 <a href="https://github.com/PatoPitaya/thepalebluedot">thepalebluedot</a></h4>
+      <p>Portfolio interactivo de fotografía. Diseñado para fusionar precisión técnica con sensibilidad estética, documentando paisajes, texturas minerales y encuadres geométricos.</p>
+      <p><b>Stack:</b> React · JavaScript · Vite · CSS Modules</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🧪 Proyectos de programación
-
-Pequeños proyectos y experimentos donde exploro nuevas ideas,
-herramientas y tecnologías.
-
----
-
-## 📊 GitHub
+### 📊 Actividad en GitHub
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatoPitaya&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatoPitaya&layout=compact&hide_border=true&theme=transparent)
-
-</div>
-
----
-
-## 📷 También estoy por aquí
-
-**Instagram:** [@thepale_blue_dot](https://www.instagram.com/thepale_blue_dot)
-
-Fotografía, viajes, naturaleza y proyectos personales.
-
----
-
-<div align="center">
-
-### `Explorar → Crear → Aprender`
-
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PatoPitaya&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatoPitaya&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 </div>
