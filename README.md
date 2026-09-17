@@ -1,60 +1,100 @@
 <div align="center">
 
-# Hola, soy Patricio 👋
-### Geociencias · Desarrollo Frontend & Python · Fotografía
+<!-- BANNER PRINCIPAL (Sube la imagen a tu repositorio en una carpeta /assets/banner.jpg o usa la URL directa) -->
+<img src="./assets/banner.jpg" alt="Patricio Banner" width="100%" style="border-radius: 12px;"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Patricio-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@thepale__blue__dot-E4405F?style=flat-square&logo=instagram)](https://instagram.com/thepale_blue_dot)
-[![Location](https://img.shields.io/badge/Ubicación-Amberes%2C%20Bélgica-blue?style=flat-square&logo=google-maps)](https://maps.google.com)
+<br/><br/>
 
-*"Construyendo la intersección entre datos del terreno, código limpio y estética visual."*
+# 🌿 Hola, soy Patricio (`@PatoPitaya`)
+### *Desarrollo de Software · Geología & Sostenibilidad · Fotografía*
+**Amberes, Bélgica 🇧🇪 · Español (Nativo) · Neerlandés (B2–C1)**
+
+<p align="center">
+  <code style="color: #84CC16;">// Ética animal</code> · 
+  <code style="color: #FB7185;">// Código limpio</code> · 
+  <code style="color: #84CC16;">// Ciencias de la tierra</code> · 
+  <code style="color: #FB7185;">// Perspectiva visual</code>
+</p>
+
+> *"Combinando el rigor del muestreo y las geociencias con la empatía del activismo y la precisión del código."*
 
 ---
 
 </div>
 
-### 🧭 Sobre mí
+<br/>
 
-- 🌍 **Geología y Topografía:** Técnico en Geología y Minería Sostenible (homologado por NARIC-Vlaanderen). Experiencia en **SRK Consulting** (Chile), asistencia topográfica con GPS en pistas de aeropuertos y control de calidad/muestreo en Bélgica (**Martal Houtimport**, **Imerys**).
-- 💻 **Desarrollo Web & Software:** Enfocado en construir interfaces modernas y herramientas de análisis con JavaScript, React y Python.
-- 📷 **Mirada Creativa:** Fotógrafo detrás de [@thepale_blue_dot](https://instagram.com/thepale_blue_dot). Traslado la atención al detalle geológico —texturas, capas y luz— directamente a la composición visual y al diseño de interfaces.
-- 🗣️ **Idiomas:** Español (Nativo) · Neerlandés (B2–C1) · Inglés.
-
----
-
-### 🛠️ Stack & Herramientas
-
-**Desarrollo Frontend & Código**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Técnico, Terreno & Calidad**  
-![Topografía GPS](https://img.shields.io/badge/Equipos-GPS%20%26%20Topografía-2ea44f?style=flat-square)
-![Control Calidad](https://img.shields.io/badge/Procesos-Control%20de%20Calidad%20%26%20Muestreo-gray?style=flat-square)
-
----
-
-### 🚀 Proyecto Destacado
+### 🐾 Mis 4 Dimensiones
 
 <table>
   <tr>
-    <td width="60%">
-      <h4>📸 <a href="https://github.com/PatoPitaya/thepalebluedot">thepalebluedot</a></h4>
-      <p>Portfolio interactivo de fotografía. Diseñado para fusionar precisión técnica con sensibilidad estética, documentando paisajes, texturas minerales y encuadres geométricos.</p>
-      <p><b>Stack:</b> React · JavaScript · Vite · CSS Modules</p>
+    <td width="50%" valign="top">
+      <h4 style="color: #84CC16;">🌱 Ética, Veganismo & Animal Rights</h4>
+      <p>
+        Vegano comprometido y defensor de los derechos de todos los animales. Creo que la tecnología y la ciencia deben orientarse siempre hacia un modelo de vida respetuoso, compasivo y libre de explotación.
+      </p>
+      <p>
+        🐈 <b>El equipo felino:</b> Acompañado a diario por mis <b>dos gatitas</b>, quienes supervisan cada línea de código y cada sesión de edición desde el escritorio.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 style="color: #FB7185;">💻 Desarrollo & Código</h4>
+      <p>
+        Construyendo soluciones web funcionales, limpias y visualmente atractivas. Conectando datos del mundo físico con interfaces intuitivas.
+      </p>
+      <p>
+        <b>Herramientas:</b> JavaScript (ES6+) · React · Vite · Python · HTML5 / CSS semántico · Git & GitHub.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 style="color: #84CC16;">🌍 Geología & Minería Sostenible</h4>
+      <p>
+        Técnico homologado por <b>NARIC-Vlaanderen</b>. Trayectoria en terreno y laboratorio:
+      </p>
+      <ul>
+        <li><b>SRK Consulting (Chile):</b> Apoyo técnico en consultoría geológica y análisis.</li>
+        <li><b>Topografía GPS:</b> Control y replanteo de precisión en proyectos de pistas de aeropuerto.</li>
+        <li><b>Bélgica (Martal Houtimport / Imerys):</b> Ensayos, muestreo riguroso y control de calidad industrial.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4 style="color: #FB7185;">📷 Fotografía & Mirada (@thepale_blue_dot)</h4>
+      <p>
+        La geología me enseñó a mirar las capas, los minerales y las fracturas; la fotografía me permite transformar esas texturas, sombras y luz en narrativa visual.
+      </p>
+      <p>
+        ✦ <b>Proyecto Principal:</b> <a href="https://github.com/PatoPitaya/thepalebluedot"><code>thepalebluedot</code></a> — Portfolio interactivo creado con React/Vite para exponer series fotográficas de naturaleza y arquitectura.
+      </p>
     </td>
   </tr>
 </table>
 
+<br/>
+
 ---
 
-### 📊 Actividad en GitHub
-
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PatoPitaya&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatoPitaya&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+
+### 📊 Actividad en Código
+*(Paleta personalizada en verde manzana y acentos coral)*
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=PatoPitaya&show_icons=true&title_color=84cc16&text_color=e2e8f0&icon_color=fb7185&bg_color=0d1117&border_color=2e3440&hide_border=false" alt="Estadísticas de Patricio" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatoPitaya&layout=compact&title_color=84cc16&text_color=e2e8f0&bg_color=0d1117&border_color=2e3440&hide_border=false" alt="Lenguajes principales" height="165" />
+
+<br/><br/>
+
+### 📬 Conectemos
+
+<p align="center">
+  <a href="https://instagram.com/thepale_blue_dot"><b>Instagram (@thepale_blue_dot)</b></a> · 
+  <a href="https://github.com/PatoPitaya"><b>GitHub</b></a> · 
+  <a href="mailto:tu-correo@ejemplo.com"><b>Email Directo</b></a>
+</p>
+
+<sub>🌱 Construido con respeto por la naturaleza, devoción por los animales y pasión por el código.</sub>
+
 </div>
