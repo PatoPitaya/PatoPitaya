@@ -1,68 +1,100 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8BC34A,100:FF7F6B&height=220&section=header&text=Hola,%20soy%20Patricio&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Geólogo%20de%20formación%20·%20Fotógrafo%20de%20corazón%20·%20Defensor%20de%20los%20animales&descAlignY=58&descSize=18" width="100%" />
+<!-- BANNER PRINCIPAL (Sube la imagen a tu repositorio en una carpeta /assets/banner.jpg o usa la URL directa) -->
+<img src="./assets/banner.jpg" alt="Patricio Banner" width="100%" style="border-radius: 12px;"/>
 
-</div>
+<br/><br/>
 
-<br>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=800&color=8BC34A&center=true&vCenter=true&width=600&lines=Del+terreno+rocoso+a+la+fotograf%C3%ADa;Vegano+%F0%9F%8C%B1+%C2%B7+Defensor+de+los+animales+%F0%9F%90%BE;Mam%C3%A1+de+Fika+y+Flor+%F0%9F%90%B1%F0%9F%90%B1" alt="Typing SVG" />
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8BC34A&height=3&width=100%" width="100%" />
-
-## 🪨 Sobre mí
-
-Soy técnico en **Geología y Minería Sostenible** (título reconocido por NARIC-Vlaanderen), formado observando rocas, capas y paisajes — y ese mismo ojo terminó por convertirse en pasión por la fotografía.
-
-- ⛏️ Técnico geológico en **SRK Consulting** (Chile)
-- 🛰️ Asistente de topografía en un proyecto de pista de aeropuerto, con equipos GPS
-- 🏭 Control de calidad y muestreo en Bélgica — **Martal Houtimport**, **Imerys**
-- 📍 Vivo en Amberes (Antwerp), Bélgica
-- 🗣️ Español nativo · Neerlandés B2–C1
-- 🧗 Boulderer activo y viajero empedernido
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF7F6B&height=3&width=100%" width="100%" />
-
-## 🌱 Lo que me mueve
-
-No solo miro el mundo como geólogo — lo cuido como vegano y defensor de los derechos de los animales.
+# 🌿 Hola, soy Patricio (`@PatoPitaya`)
+### *Desarrollo de Software · Geología & Sostenibilidad · Fotografía*
+**Amberes, Bélgica 🇧🇪 · Español (Nativo) · Neerlandés (B2–C1)**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Vegano-8BC34A?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Animal%20Rights-FF7F6B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Amante%20de%20la%20naturaleza-8BC34A?style=for-the-badge&logoColor=white" />
+  <code style="color: #84CC16;">// Ética animal</code> · 
+  <code style="color: #FB7185;">// Código limpio</code> · 
+  <code style="color: #84CC16;">// Ciencias de la tierra</code> · 
+  <code style="color: #FB7185;">// Perspectiva visual</code>
 </p>
 
-Vivo con **Fika** y **Flor**, dos gatitas rescatadas por *Nala's Friends*, que me recuerdan todos los días por qué esto me importa.
+> *"Combinando el rigor del muestreo y las geociencias con la empatía del activismo y la precisión del código."*
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8BC34A,100:FF7F6B&height=90&width=100%&text=Fika%20%26%20Flor%20🐾&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8BC34A&height=3&width=100%" width="100%" />
-
-## 📸 Proyecto creativo — thepalebluedot
-
-Un portfolio fotográfico donde la precisión técnica de la geología se encuentra con la estética: paisajes, luz y textura, contados como quien lee una formación rocosa.
-
-<div align="center">
-
-**[📁 Ver el repositorio](https://github.com/PatoPitaya/thepalebluedot)** &nbsp;·&nbsp; **[📷 Seguir en Instagram @thepale_blue_dot](https://instagram.com/thepale_blue_dot)**
+---
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF7F6B&height=3&width=100%" width="100%" />
+<br/>
 
-## 💻 Ahora mismo
+### 🐾 Mis 4 Dimensiones
 
-Aprendiendo a construir por mi cuenta, con ayuda de IA, el sitio web que muestra todo esto — combinando código, diseño y las mismas ganas de entender cómo funcionan las cosas que tenía frente a una roca.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 style="color: #84CC16;">🌱 Ética, Veganismo & Animal Rights</h4>
+      <p>
+        Vegano comprometido y defensor de los derechos de todos los animales. Creo que la tecnología y la ciencia deben orientarse siempre hacia un modelo de vida respetuoso, compasivo y libre de explotación.
+      </p>
+      <p>
+        🐈 <b>El equipo felino:</b> Acompañado a diario por mis <b>dos gatitas</b>, quienes supervisan cada línea de código y cada sesión de edición desde el escritorio.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 style="color: #FB7185;">💻 Desarrollo & Código</h4>
+      <p>
+        Construyendo soluciones web funcionales, limpias y visualmente atractivas. Conectando datos del mundo físico con interfaces intuitivas.
+      </p>
+      <p>
+        <b>Herramientas:</b> JavaScript (ES6+) · React · Vite · Python · HTML5 / CSS semántico · Git & GitHub.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 style="color: #84CC16;">🌍 Geología & Minería Sostenible</h4>
+      <p>
+        Técnico homologado por <b>NARIC-Vlaanderen</b>. Trayectoria en terreno y laboratorio:
+      </p>
+      <ul>
+        <li><b>SRK Consulting (Chile):</b> Apoyo técnico en consultoría geológica y análisis.</li>
+        <li><b>Topografía GPS:</b> Control y replanteo de precisión en proyectos de pistas de aeropuerto.</li>
+        <li><b>Bélgica (Martal Houtimport / Imerys):</b> Ensayos, muestreo riguroso y control de calidad industrial.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4 style="color: #FB7185;">📷 Fotografía & Mirada (@thepale_blue_dot)</h4>
+      <p>
+        La geología me enseñó a mirar las capas, los minerales y las fracturas; la fotografía me permite transformar esas texturas, sombras y luz en narrativa visual.
+      </p>
+      <p>
+        ✦ <b>Proyecto Principal:</b> <a href="https://github.com/PatoPitaya/thepalebluedot"><code>thepalebluedot</code></a> — Portfolio interactivo creado con React/Vite para exponer series fotográficas de naturaleza y arquitectura.
+      </p>
+    </td>
+  </tr>
+</table>
 
-<br>
+<br/>
+
+---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7F6B,100:8BC34A&height=120&section=footer&width=100%" width="100%" />
+
+### 📊 Actividad en Código
+*(Paleta personalizada en verde manzana y acentos coral)*
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=PatoPitaya&show_icons=true&title_color=84cc16&text_color=e2e8f0&icon_color=fb7185&bg_color=0d1117&border_color=2e3440&hide_border=false" alt="Estadísticas de Patricio" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatoPitaya&layout=compact&title_color=84cc16&text_color=e2e8f0&bg_color=0d1117&border_color=2e3440&hide_border=false" alt="Lenguajes principales" height="165" />
+
+<br/><br/>
+
+### 📬 Conectemos
+
+<p align="center">
+  <a href="https://instagram.com/thepale_blue_dot"><b>Instagram (@thepale_blue_dot)</b></a> · 
+  <a href="https://github.com/PatoPitaya"><b>GitHub</b></a> · 
+  <a href="mailto:tu-correo@ejemplo.com"><b>Email Directo</b></a>
+</p>
+
+<sub>🌱 Construido con respeto por la naturaleza, devoción por los animales y pasión por el código.</sub>
+
 </div>
