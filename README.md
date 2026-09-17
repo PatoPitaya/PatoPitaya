@@ -1,173 +1,68 @@
 <div align="center">
 
-<img src="./assets/hero-green.jpg" width="100%" alt="Green landscape photograph">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8BC34A,100:FF7F6B&height=220&section=header&text=Hola,%20soy%20Patricio&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Geólogo%20de%20formación%20·%20Fotógrafo%20de%20corazón%20·%20Defensor%20de%20los%20animales&descAlignY=58&descSize=18" width="100%" />
+
+</div>
 
 <br>
 
-# PATOPITAYA
-
-### Patricio Jiménez
-
-**Geología · Minería sostenible · Topografía · Fotografía · Desarrollo web**
-
-Construyendo cosas bonitas con código.
-
-<img src="./assets/accent.svg" width="100%" alt="green and soft red accent">
-
-</div>
-
----
-
-## Sobre mí
-
-Soy técnico en **Geología y Minería Sostenible**, con una trayectoria que une trabajo de terreno, observación de la naturaleza, fotografía y tecnología.
-
-He trabajado en contextos de **geología técnica, topografía, GPS, muestreo y control de calidad**, y también estoy construyendo mi camino en el desarrollo digital con **JavaScript, React, Python y Vite**.
-
-Mi forma de trabajar parte de una idea sencilla:
-
-> **Entender el mundo, observarlo con atención y después crear algo con lo aprendido.**
-
-Actualmente vivo en Bélgica y desarrollo proyectos personales que conectan tecnología, imagen, naturaleza y creatividad.
-
----
-
-## Un perfil entre dos mundos
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Campo
-
-Geología  
-Minería sostenible  
-Topografía  
-GPS y levantamientos  
-Muestreo  
-Control de calidad  
-Trabajo de terreno
-
-</td>
-<td width="50%" valign="top">
-
-### Digital
-
-JavaScript  
-React  
-Python  
-Vite  
-Diseño web  
-Fotografía  
-Narrativa visual
-
-</td>
-</tr>
-</table>
-
----
-
-## Experiencia
-
-**Geología y minería sostenible**  
-Formación técnica reconocida en Bélgica y experiencia profesional vinculada a geología aplicada.
-
-**SRK Consulting — Chile**  
-Experiencia como técnico geológico, incluyendo trabajo de terreno y apoyo topográfico.
-
-**Bélgica**  
-Experiencia en control de calidad y muestreo, entre otros entornos vinculados a Martal Houtimport e Imerys.
-
-**Antwerpen**  
-Actualmente desarrollando una etapa profesional que combina experiencia técnica, aprendizaje de neerlandés y proyectos digitales.
-
----
-
-## Tecnología
-
-```text
-JavaScript   React   Python   Vite
-GPS / Topografía   Git   GitHub
-```
-
-No me interesa aprender tecnología solamente para acumular herramientas.
-
-Me interesa usarla para **resolver problemas, construir experiencias y convertir ideas en algo que se pueda ver y utilizar**.
-
----
-
-## Fotografía
-
-La fotografía es mi forma de observar.
-
-Paisajes, viajes, ciudades, montañas, animales, luz y pequeñas escenas cotidianas forman parte de mi archivo visual.
-
 <div align="center">
-
-<img src="./assets/patricio-city.jpg" width="48%" alt="Patricio in an urban landscape">
-<img src="./assets/green-landscape.jpg" width="48%" alt="Green landscape">
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=800&color=8BC34A&center=true&vCenter=true&width=600&lines=Del+terreno+rocoso+a+la+fotograf%C3%ADa;Vegano+%F0%9F%8C%B1+%C2%B7+Defensor+de+los+animales+%F0%9F%90%BE;Mam%C3%A1+de+Fika+y+Flor+%F0%9F%90%B1%F0%9F%90%B1" alt="Typing SVG" />
 </div>
-
-Mi proyecto fotográfico gira alrededor de una idea cercana al concepto de **The Pale Blue Dot**:
-
-mirar el mundo desde una escala más amplia y recordar que todo lo que fotografiamos forma parte del mismo lugar.
-
----
-
-## Animales, naturaleza y vida consciente
-
-Los animales no son un elemento decorativo en mi vida.
-
-Soy **vegano**, tengo un interés especial por los **derechos y el bienestar animal**, y comparto mi vida con dos gatitas: **Flor y Fika**.
-
-También me interesan los proyectos donde tecnología y naturaleza puedan convivir de una forma más responsable.
-
-<div align="center">
-
-<img src="./assets/vegan.jpg" width="70%" alt="Vegan food and neon photography">
-
-</div>
-
----
-
-## Proyectos
-
-### The Pale Blue Dot
-
-Fotografía, naturaleza, viajes y exploración visual.
-
-[Visitar repositorio](https://github.com/PatoPitaya/thepalebluedot)
-
-### PatoPitaya
-
-Mi espacio para experimentar con código, ideas y proyectos personales.
-
-[Visitar repositorio](https://github.com/PatoPitaya/PatoPitaya)
-
----
-
-## Más allá del trabajo
-
-Me gusta moverme entre ambientes muy diferentes: terreno, montaña, fotografía, desarrollo web y actividades que me permitan seguir aprendiendo.
-
-El deporte y la escalada también han sido una manera importante de conocer personas, practicar idiomas y mantenerme activo.
-
----
-
-<div align="center">
-
-### FIELD → OBSERVE → CREATE
-
-**Geology / Nature / Photography / Code**
 
 <br>
 
-[Instagram](https://www.instagram.com/thepale_blue_dot) ·
-[GitHub](https://github.com/PatoPitaya)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8BC34A&height=3&width=100%" width="100%" />
 
-<br><br>
+## 🪨 Sobre mí
 
-*Patricio Jiménez — PatoPitaya*
+Soy técnico en **Geología y Minería Sostenible** (título reconocido por NARIC-Vlaanderen), formado observando rocas, capas y paisajes — y ese mismo ojo terminó por convertirse en pasión por la fotografía.
 
+- ⛏️ Técnico geológico en **SRK Consulting** (Chile)
+- 🛰️ Asistente de topografía en un proyecto de pista de aeropuerto, con equipos GPS
+- 🏭 Control de calidad y muestreo en Bélgica — **Martal Houtimport**, **Imerys**
+- 📍 Vivo en Amberes (Antwerp), Bélgica
+- 🗣️ Español nativo · Neerlandés B2–C1
+- 🧗 Boulderer activo y viajero empedernido
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF7F6B&height=3&width=100%" width="100%" />
+
+## 🌱 Lo que me mueve
+
+No solo miro el mundo como geólogo — lo cuido como vegano y defensor de los derechos de los animales.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Vegano-8BC34A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Animal%20Rights-FF7F6B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Amante%20de%20la%20naturaleza-8BC34A?style=for-the-badge&logoColor=white" />
+</p>
+
+Vivo con **Fika** y **Flor**, dos gatitas rescatadas por *Nala's Friends*, que me recuerdan todos los días por qué esto me importa.
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8BC34A,100:FF7F6B&height=90&width=100%&text=Fika%20%26%20Flor%20🐾&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8BC34A&height=3&width=100%" width="100%" />
+
+## 📸 Proyecto creativo — thepalebluedot
+
+Un portfolio fotográfico donde la precisión técnica de la geología se encuentra con la estética: paisajes, luz y textura, contados como quien lee una formación rocosa.
+
+<div align="center">
+
+**[📁 Ver el repositorio](https://github.com/PatoPitaya/thepalebluedot)** &nbsp;·&nbsp; **[📷 Seguir en Instagram @thepale_blue_dot](https://instagram.com/thepale_blue_dot)**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF7F6B&height=3&width=100%" width="100%" />
+
+## 💻 Ahora mismo
+
+Aprendiendo a construir por mi cuenta, con ayuda de IA, el sitio web que muestra todo esto — combinando código, diseño y las mismas ganas de entender cómo funcionan las cosas que tenía frente a una roca.
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7F6B,100:8BC34A&height=120&section=footer&width=100%" width="100%" />
 </div>
