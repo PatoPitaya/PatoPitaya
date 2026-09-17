@@ -1,48 +1,109 @@
 <div align="center">
 
-# Hola, soy Patricio 👋
+# 👋 Hola, soy Patricio
 
-### Técnico en Geología & Minería Sostenible 🌍 · Fotógrafo por afición 📸
+### `PatoPitaya`
 
-*De las rocas de Chile a los códigos de Bélgica — siempre buscando la forma correcta de mirar las cosas.*
+**Geología • Minería • Fotografía • Código**
+
+Construyo cosas, exploro lugares y convierto ideas en proyectos.
+
+[![GitHub](https://img.shields.io/badge/GitHub-PatoPitaya-181717?style=flat-square&logo=github)](https://github.com/PatoPitaya)
+[![Instagram](https://img.shields.io/badge/Instagram-thepale__blue__dot-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/thepale_blue_dot)
 
 </div>
 
-<br>
+---
 
 ## 🧭 Sobre mí
 
-- 🎓 Técnico en Geología y Minería Sostenible — título reconocido por **NARIC-Vlaanderen**
-- ⛏️ Técnico geológico en **SRK Consulting** (Chile)
-- 🛰️ Asistente de topografía en un proyecto de pista de aeropuerto — trabajo diario con equipos GPS
-- 🏭 Control de calidad y muestreo en Bélgica — **Martal Houtimport**, **Imerys**
-- 📍 Vivo en Amberes (Antwerp), Bélgica
-- 🗣️ Español nativo · Neerlandés B2–C1
+Soy **técnico en Geología y Minería Sostenible**, con experiencia en:
 
-Fuera del trabajo técnico, sigo mirando el mundo con ojo de geólogo — pero ahora a través de una cámara.
+- 🗺️ Topografía y levantamientos de terreno
+- 📍 GPS y posicionamiento
+- ⛏️ Geología y minería
+- 🔬 Control de calidad y muestreo
+- 📸 Fotografía de paisajes y naturaleza
+- 💻 Desarrollo web y programación
 
-<br>
+Mi perfil combina dos mundos que me gustan especialmente:
 
-## 📸 Proyecto creativo — thepalebluedot
+**el trabajo de campo y la creación digital.**
 
-Un portfolio de fotografía donde la precisión técnica se encuentra con la estética: paisajes, luz y textura, contados como quien lee una formación rocosa.
+Actualmente estoy desarrollando proyectos relacionados con programación,
+fotografía y herramientas para transformar ideas en productos digitales.
 
-**[→ Ver el repositorio](https://github.com/PatoPitaya/thepalebluedot)** · **[→ Seguir en Instagram @thepale_blue_dot](https://instagram.com/thepale_blue_dot)**
+---
 
-<br>
+## 💻 Tech Stack
 
-## 🛠️ Herramientas
+### Desarrollo
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Herramientas
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Geología / Topografía
+
+![GPS](https://img.shields.io/badge/GPS%20%2F%20Topografía-2E7D32?style=for-the-badge)
+![Geología](https://img.shields.io/badge/Geología-795548?style=for-the-badge)
+![Minería](https://img.shields.io/badge/Minería-455A64?style=for-the-badge)
+
+---
+
+## 🚀 Proyectos destacados
+
+### 📸 The Pale Blue Dot
+
+Mi proyecto de fotografía y exploración visual.
+
+**Fotografía • Naturaleza • Paisajes**
+
+---
+
+### 🌐 Proyectos Web
+
+Experimentos y proyectos desarrollados con:
+
+**JavaScript • React • Vite**
+
+---
+
+### 🧪 Proyectos de programación
+
+Pequeños proyectos y experimentos donde exploro nuevas ideas,
+herramientas y tecnologías.
+
+---
+
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,py,vite,git,github&theme=light" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatoPitaya&show_icons=true&hide_border=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatoPitaya&layout=compact&hide_border=true&theme=transparent)
 
 </div>
 
-<br>
+---
+
+## 📷 También estoy por aquí
+
+**Instagram:** [@thepale_blue_dot](https://www.instagram.com/thepale_blue_dot)
+
+Fotografía, viajes, naturaleza y proyectos personales.
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PatoPitaya&show_icons=true&theme=default&hide_title=true&count_private=true" width="450" />
+### `Explorar → Crear → Aprender`
 
 </div>
