@@ -35,19 +35,23 @@ I spent years reading the ground — rock layers, terrain, samples under a micro
 
 ### 🛠️ Craft & Tools
 
-```bash
-$ pato --inspect-toolkit --supervised-by="2_cats"
-
-[EARTH SCIENCES & FIELD]
-├── Surveying      ▸ Precision GPS Topography · Runway alignment
-├── Geotechnics    ▸ Mineral sampling · Petrographic testing
-└── Standards      ▸ Industrial QA/QC · Resource sustainability
-
-[FRONTEND & CODE]
-├── Architecture   ▸ React.js · Vite · Component modularity
-├── Scripting      ▸ Python · Modern JavaScript (ES6+)
-└── Visual / UI    ▸ Semantic HTML5 · Responsive CSS & Grid
-
-STATUS: All units calibrated. 0 errors detected, 2 felines resting on desk.
-```
-  - Responsive UI Layouts
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌍 Earth Sciences & Field Ops</h4>
+      <p>
+        <kbd>Precision GPS</kbd> <kbd>Topography</kbd> <kbd>Airport Infrastructure</kbd><br/>
+        <kbd>Geological Sampling</kbd> <kbd>QA/QC Industrial</kbd> <kbd>Sustainability</kbd>
+      </p>
+      <p><i>Focusing on terrain accuracy, material control, and sustainable resource management.</i></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Digital Development & Stack</h4>
+      <p>
+        <kbd>JavaScript (ES6+)</kbd> <kbd>React</kbd> <kbd>Vite</kbd><br/>
+        <kbd>Python</kbd> <kbd>Modern CSS</kbd> <kbd>Semantic HTML5</kbd>
+      </p>
+      <p><i>Building lightweight web interfaces backed by analytical precision and visual clarity.</i></p>
+    </td>
+  </tr>
+</table>
