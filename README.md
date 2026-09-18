@@ -5,7 +5,7 @@
 
 <br/><br/>
 
-# Hi there, I'm Patricio 👋
+# Hi there, I'm Patricio 
 ### Geoscientist · Frontend Developer · Visual Storyteller
 
 <p align="center">
