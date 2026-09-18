@@ -5,8 +5,8 @@
 
 <br/><br/>
 
-Hi, I'm Patricio
-Geoscience background · Building my way into code · Photographer at heart
+# Hi, I'm Patricio
+### Geoscience background · Building my way into code · Photographer at heart
 
 <p align="center">
   <span style="color: #84cc16;">🌱 Vegan & Animal Rights</span> &nbsp;•&nbsp; 
