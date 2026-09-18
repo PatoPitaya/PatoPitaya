@@ -35,8 +35,7 @@ I spent years reading the ground — rock layers, terrain, samples under a micro
 
 ### Craft & Tools
 
-```yaml
-Programming:
+Currently building with:
   - JavaScript (ES6+)
   - React.js
   - Vite
@@ -48,7 +47,6 @@ Earth Science & Field:
   - Geological Sampling & Testing
   - Industrial Quality Assurance (QA/QC)
   - Sustainable Resource Management
-
 Creative:
   - Photography & Composition
   - Lightroom & Visual Curation
