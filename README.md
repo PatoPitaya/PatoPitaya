@@ -49,7 +49,7 @@ I build digital solutions shaped by the precision of earth sciences, a deep comm
         <kbd>JavaScript (ES6+)</kbd> <kbd>React</kbd> <kbd>Vite</kbd><br/>
         <kbd>Python</kbd> <kbd>Modern CSS</kbd> <kbd>Semantic HTML5</kbd>
       </p>
-      <p><i>Building lightweight web interfaces backed by analytical precision and visual clarity.</i></p>
+      <p><i>Learning to build clean, functional interfaces — bringing the same attention to detail from years in the field.</i></p>
     </td>
   </tr>
 </table>
