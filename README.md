@@ -9,13 +9,13 @@
 ### Geoscientist · Frontend Developer · Visual Storyteller
 
 <p align="center">
-  <span style="color: #84cc16;">🌱 Vegan & Animal Rights Advocate</span> &nbsp;•&nbsp; 
+  <span style="color: #84cc16;">🌱 Vegan & Animal Rights</span> &nbsp;•&nbsp; 
   <span style="color: #fb7185;">🐱 Cat Companion</span> &nbsp;•&nbsp; 
   <span style="color: #84cc16;">📍 Antwerp, Belgium</span>
 </p>
 
 <p align="center">
-  <b>Languages:</b> Spanish (Native) · Dutch (B2–C1) · English
+  <b>Languages:</b> Spanish (Native) · Dutch (B2) · English (B2)
 </p>
 
 ---
