@@ -24,17 +24,16 @@
 
 ### 🐾 About Me
 
-I build digital solutions shaped by the precision of earth sciences, a deep commitment to animal rights, and an eye for photographic composition.
+I spent years reading the ground — rock layers, terrain, samples under a microscope. These days I read light and composition instead, but it's the same instinct: pay attention, look closer, understand the structure of things.
 
-- 🌿 **Ethics & Compassion:** Proud vegan and vocal animal rights advocate. I believe technology and human progress must always prioritize empathy, sustainability, and the well-being of all sentient beings.
-- 🐈 **The QA Team:** Fully supervised on a daily basis by my **two cats**—one curious brown tabby debugging the keyboard, and one calico inspecting rock samples and keeping desk order.
-- 🌍 **Geology & Sustainable Mining:** Certified technician (NARIC-Vlaanderen recognized). Extensive background in geological consulting at **SRK Consulting (Chile)**, precision GPS topography on airport runway infrastructure, and quality control & mineral sampling in Belgium (**Martal Houtimport**, **Imerys**).
-- 💻 **Frontend & Code:** Translating physical data and creative ideas into clean, fast, and accessible web experiences.
-- 📷 **Photography:** Founder of [@thepale_blue_dot](https://instagram.com/thepale_blue_dot). Using my geological eye for textures, light, and geometry to capture the world.
-
+- 🌿 **Ethics & Compassion:** I'm vegan and I care about animal rights, not as a side note but as something that shapes how I see technology and progress in general. To me, none of it means much if it doesn't also make room for empathy toward every living being.
+- 🐈 **The QA Team:** Fika and Flor, my two cats, supervise everything I do. Fika (brown tabby) mostly debugs the keyboard by sitting on it; Flor (calico) inspects whatever's on the desk and rearranges it without asking.
+- 🌍 **Geology & Sustainable Mining:** Certified technician (NARIC-Vlaanderen recognized), with hands-on experience: geological consulting at SRK Consulting (Chile), precision GPS topography on an airport runway project, and quality control / mineral sampling here in Belgium (Martal Houtimport, Imerys).
+- 💻 **Frontend & Code:** Teaching myself frontend development and web building, with a lot of trial, error, and AI as a coding partner — turning ideas into something that actually works on screen.
+- 📷 **Photography:** I run @thepale_blue_dot, where the same eye trained on rock formations now goes looking for texture, light, and geometry in everyday places.
 ---
 
-### 🛠️ Craft & Tools
+### Craft & Tools
 
 ```yaml
 Programming:
