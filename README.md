@@ -33,21 +33,21 @@ I spent years reading the ground — rock layers, terrain, samples under a micro
 - 📷 **Photography:** I run @thepale_blue_dot, where the same eye trained on rock formations now goes looking for texture, light, and geometry in everyday places.
 ---
 
-### Craft & Tools
+### 🛠️ Craft & Tools
 
-Currently building with:
-  - JavaScript (ES6+)
-  - React.js
-  - Vite
-  - Python
-  - Semantic HTML5 & Modern CSS
+```bash
+$ pato --inspect-toolkit --supervised-by="2_cats"
 
-Earth Science & Field:
-  - Precision GPS Topography & Surveying
-  - Geological Sampling & Testing
-  - Industrial Quality Assurance (QA/QC)
-  - Sustainable Resource Management
-Creative:
-  - Photography & Composition
-  - Lightroom & Visual Curation
+[EARTH SCIENCES & FIELD]
+├── Surveying      ▸ Precision GPS Topography · Runway alignment
+├── Geotechnics    ▸ Mineral sampling · Petrographic testing
+└── Standards      ▸ Industrial QA/QC · Resource sustainability
+
+[FRONTEND & CODE]
+├── Architecture   ▸ React.js · Vite · Component modularity
+├── Scripting      ▸ Python · Modern JavaScript (ES6+)
+└── Visual / UI    ▸ Semantic HTML5 · Responsive CSS & Grid
+
+STATUS: All units calibrated. 0 errors detected, 2 felines resting on desk.
+```
   - Responsive UI Layouts
