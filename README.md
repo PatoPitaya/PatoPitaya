@@ -1,11 +1,8 @@
 <div align="center">
 
-<!-- Main Hero Banner -->
-<img src="banner.jpg" alt="Patricio, Cats and Code Banner" width="100%" />
-
 <br/><br/>
 
-# Hi, I'm Patricio
+# Hi, I'm Patricio Jiménez
 
 ### Geoscience background · Building my way into code · Photographer at heart
 
