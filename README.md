@@ -10,7 +10,7 @@ Vegan & Animal Rights  ·   Fika & Flor's human  ·   Boulderer & traveler �
 
 Languages: Spanish (Native) · Dutch (B2) · English (B2)
 
- Open to opportunities in QA/QC, environmental technician, mineralogy, or photography-adjacent roles
+ Open to junior frontend opportunities, environmental technician, mineralogy, or photography-adjacent roles
 
 ---
 
