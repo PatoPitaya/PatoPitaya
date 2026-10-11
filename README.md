@@ -6,7 +6,7 @@
 
 ### Geoscience background · Building my way into code · Photographer at heart
 
-Vegan & Animal Rights  ·   Fika & Flor's human  ·   Boulderer & traveler  ·   Antwerp, Belgium
+Vegan & Animal Rights  ·   Boulderer & traveler  ·   Antwerp, Belgium
 
 Languages: Spanish (Native) · Dutch (B2) · English (B2)
 
@@ -22,7 +22,7 @@ I build digital solutions shaped by the precision of earth sciences, a deep comm
 
 -  **Ethics & Compassion:** I'm vegan and I care about animal rights, not as a side note but as something that shapes how I see technology and progress in general. To me, none of it means much if it doesn't also make room for empathy toward every living being.
   
--  **The QA Team:** Fika and Flor, my two cats, supervise everything I do. Fika (brown tabby) mostly debugs the keyboard by sitting on it; Flor (calico) inspects whatever's on the desk and rearranges it without asking. Two rescue cats, adopted through Nala's Friends
+-  **The QA Team:** Fika and Flor, my two cats, supervise everything I do. Fika (brown tabby) mostly debugs the keyboard by sitting on it; Flor (calico) inspects whatever's on the desk and rearranges it without asking. Two rescue cats, adopted through Nala's Friends.
   
 -  **Geology & Sustainable Mining:** Certified technician (NARIC-Vlaanderen recognized), with hands-on experience: geological consulting at SRK Consulting (Chile), precision GPS topography on an airport runway project, and quality control, mineral sampling here in Belgium (Martal Houtimport, Imerys).
   
